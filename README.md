@@ -1,6 +1,8 @@
 # Mamo.ia
 Desenvolvimento de plataforma de auxilio de diagnóstico de câncer de mama (Computação biomédica)
+
 CLASSIFICADOR DE LESÕES MAMÁRIAS COM DWT + REDE NEURAL
+
 ETAPAS:
 1. Código python via google colab
 2. Tratamento dos arquivos
